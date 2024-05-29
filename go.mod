@@ -1,4 +1,4 @@
-module github.com/mymmrac/telego
+module github.com/fkcyber/telego
 
 go 1.15
 
