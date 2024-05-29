@@ -1,6 +1,6 @@
 module github.com/fkcyber/telego
 
-go 1.15
+go 1.18
 
 require (
 	github.com/bytedance/sonic v1.11.7
